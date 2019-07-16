@@ -1,0 +1,30 @@
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\bin\Debug\SudokuYeni.exe.config
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\bin\Debug\SudokuYeni.exe
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\bin\Debug\SudokuYeni.pdb
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.csprojResolveAssemblyReference.cache
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.Properties.Resources.resources
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.csproj.GenerateResource.Cache
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.exe
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.pdb
+c:\users\ozgen\onedrive\belgeler\visual studio 2017\Projects\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.Form1.resources
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\bin\Debug\SudokuYeni.exe.config
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.exe
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.pdb
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\bin\Debug\SudokuYeni.exe
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\bin\Debug\SudokuYeni.pdb
+C:\Users\Mehmet\Desktop\SudokuYeni\SudokuYeni\obj\Debug\SudokuYeni.formSudoku.resources
+C:\Users\ozgen\Desktop\SudokuYeni\bin\Debug\SudokuYeni.exe.config
+C:\Users\ozgen\Desktop\SudokuYeni\bin\Debug\SudokuYeni.exe
+C:\Users\ozgen\Desktop\SudokuYeni\bin\Debug\SudokuYeni.pdb
+C:\Users\ozgen\Desktop\SudokuYeni\obj\Debug\SudokuYeni.csprojResolveAssemblyReference.cache
+C:\Users\ozgen\Desktop\SudokuYeni\obj\Debug\SudokuYeni.formSudoku.resources
+C:\Users\ozgen\Desktop\SudokuYeni\obj\Debug\SudokuYeni.Properties.Resources.resources
+C:\Users\ozgen\Desktop\SudokuYeni\obj\Debug\SudokuYeni.csproj.GenerateResource.Cache
+C:\Users\ozgen\Desktop\SudokuYeni\obj\Debug\SudokuYeni.exe
+C:\Users\ozgen\Desktop\SudokuYeni\obj\Debug\SudokuYeni.pdb
+D:\SudokuYeni\bin\Debug\SudokuYeni.exe.config
+D:\SudokuYeni\obj\Debug\SudokuYeni.exe
+D:\SudokuYeni\obj\Debug\SudokuYeni.pdb
